@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "NiYan Contest Tracker",
+  "name": "ConTrac",
   "version": "1.0.0",
   "description": "All of your coding contests are listed here...",
   "host_permissions": [
