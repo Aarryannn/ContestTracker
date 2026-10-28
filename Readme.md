@@ -1,4 +1,4 @@
-# NIYAN — Coding Contest Tracker
+# CONTRACK — Coding Contest Tracker
 
 A lightweight Chrome extension that helps competitive programmers track upcoming coding contests from **LeetCode** and **Codeforces** in one place.
 
